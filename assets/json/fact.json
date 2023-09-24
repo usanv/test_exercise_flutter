@@ -1,0 +1,276 @@
+{
+  "facts": [
+    {
+      "title": "Football Wonder",
+      "fact": "At the 1954 FIFA World Cup, Germany defeated the rising football power Hungary in the final, despite Hungary defeating Germany 8-3 in the group stage."
+    },
+    {
+      "title": "The Longest Race",
+      "fact": "The longest bicycle race in the world is the Tour de France, typically consisting of 21 stages and covering over 3,500 kilometers."
+    },
+    {
+      "title": "Legendary Basketball Player",
+      "fact": "Michael Jordan, a six-time NBA champion and iconic basketball player, began his career in college, where his team won the NCAA championship in 1982."
+    },
+    {
+      "title": "Legendary Olympics",
+      "fact": "The 1896 Athens Olympics were the first modern Olympic Games and included only 13 events."
+    },
+    {
+      "title": "Hockey History",
+      "fact": "The longest professional hockey game took place in 1936, lasting 176 minutes and 30 seconds, with six overtime periods."
+    },
+    {
+      "title": "Swimming Feats",
+      "fact": "Swimmer Michael Phelps holds the record for the most Olympic gold medals, with 23 golds in total."
+    },
+    {
+      "title": "Golf's Majors",
+      "fact": "Professional golf has four major championships: The Masters, the U.S. Open, The Open Championship (British Open), and the PGA Championship."
+    },
+    {
+      "title": "Grand Slam Tennis",
+      "fact": "In tennis, winning all four major championships (Australian Open, French Open, Wimbledon, and U.S. Open) in a single year is called a Grand Slam."
+    },
+    {
+      "title": "Boxing Legends",
+      "fact": "Boxers Muhammad Ali, Joe Louis, and Rocky Marciano are considered some of the greatest fighters in the sport's history."
+    },
+    {
+      "title": "Olympic Symbols",
+      "fact": "The five interlocking rings on the Olympic flag represent the continents of Africa, America, Asia, Europe, and Oceania."
+    },
+    {
+      "title": "Marathon Origins",
+      "fact": "The marathon race is named after the Battle of Marathon, an ancient Greek battle where a runner delivered news of victory."
+    },
+    {
+      "title": "Cricket Records",
+      "fact": "Sachin Tendulkar holds the record for the most runs scored in international cricket, with over 34,000 runs."
+    },
+    {
+      "title": "Super Bowl Tradition",
+      "fact": "The Super Bowl, the NFL's championship game, is known for its halftime show and iconic commercials."
+    },
+    {
+      "title": "Soccer's Global Reach",
+      "fact": "Soccer (football) is the most popular sport in the world, with over half of the global population considering themselves fans."
+    },
+    {
+      "title": "Basketball's Inventor",
+      "fact": "Basketball was invented by Dr. James Naismith in 1891, who used a soccer ball and two peach baskets as goals."
+    },
+    {
+      "title": "Summer and Winter Olympics",
+      "fact": "The modern Olympic Games are divided into the Summer Olympics and the Winter Olympics, each held every four years."
+    },
+    {
+      "title": "Olympic Flame",
+      "fact": "The Olympic flame is lit in Olympia, Greece, and carried to the host city, where it burns throughout the games."
+    },
+    {
+      "title": "Baseball Origins",
+      "fact": "Baseball is often called America's pastime and has a long history, with origins dating back to the 18th century."
+    },
+    {
+      "title": "NBA Dynasties",
+      "fact": "The Boston Celtics and the Los Angeles Lakers are two of the most successful franchises in NBA history."
+    },
+    {
+      "title": "Horse Racing History",
+      "fact": "The Kentucky Derby is the longest-running horse race in the U.S., first held in 1875."
+    },
+    {
+      "title": "FIFA World Cup",
+      "fact": "The FIFA World Cup is the most-watched sporting event in the world, with billions of viewers."
+    },
+    {
+      "title": "Golf's Iconic Green Jacket",
+      "fact": "The winner of The Masters golf tournament is awarded a green jacket, a tradition that began in 1949."
+    },
+    {
+      "title": "Tennis Grand Slam",
+      "fact": "Serena Williams and Margaret Court are tied for the most Grand Slam singles titles in tennis history, with 24 each."
+    },
+    {
+      "title": "Boxing Weight Classes",
+      "fact": "Boxing has multiple weight classes, ranging from heavyweight (over 200 lbs) to minimumweight (105 lbs)."
+    },
+    {
+      "title": "Winter Olympics Sports",
+      "fact": "The Winter Olympics include sports like skiing, figure skating, ice hockey, and snowboarding."
+    },
+    {
+      "title": "Soccer World Cup",
+      "fact": "Brazil holds the record for the most FIFA World Cup wins, with a total of five championships."
+    },
+    {
+      "title": "Basketball's Dream Team",
+      "fact": "The 1992 U.S. men's basketball team, known as the 'Dream Team,' featured NBA legends like Michael Jordan and Magic Johnson."
+    },
+    {
+      "title": "Cycling's Tour de France",
+      "fact": "The Tour de France covers approximately 2,200 miles and lasts for three weeks, with multiple stages."
+    },
+    {
+      "title": "Tennis Rivalries",
+      "fact": "Rivalries like Roger Federer vs. Rafael Nadal and Serena Williams vs. Venus Williams have defined modern tennis."
+    },
+    {
+      "title": "Olympic Medals",
+      "fact": "Olympic medals come in three colors: gold, silver, and bronze, representing first, second, and third place, respectively."
+    },
+    {
+      "title": "Hockey's Stanley Cup",
+      "fact": "The Stanley Cup is awarded to the NHL champion and has been a hockey tradition since 1893."
+    },
+    {
+      "title": "Swimming Legends",
+      "fact": "Swimmer Mark Spitz won seven gold medals in a single Olympics, a record that stood for decades."
+    },
+    {
+      "title": "Soccer's Legends",
+      "fact": "Pele, Diego Maradona, and Johan Cruyff are considered some of the greatest soccer players of all time."
+    },
+    {
+      "title": "Olympic Opening Ceremony",
+      "fact": "The Olympic Games begin with a grand opening ceremony featuring cultural performances and the Parade of Nations."
+    },
+    {
+      "title": "Golf Majors History",
+      "fact": "The four major golf championships have a rich history, with The Open Championship being the oldest, dating back to 1860."
+    },
+    {
+      "title": "Boxing Ali vs. Frazier",
+      "fact": "The 'Fight of the Century' between Muhammad Ali and Joe Frazier in 1971 was one of the most iconic boxing matches."
+    },
+    {
+      "title": "Marathon Milestone",
+      "fact": "The first woman to officially run the Boston Marathon was Kathrine Switzer in 1967."
+    },
+    {
+      "title": "Cricket World Cup",
+      "fact": "The Cricket World Cup is one of the most-watched cricket events globally, held every four years."
+    },
+    {
+      "title": "Super Bowl Legends",
+      "fact": "Super Bowl MVPs include legends like Joe Montana, Tom Brady, and Jerry Rice."
+    },
+    {
+      "title": "Soccer World Records",
+      "fact": "Brazil's Ronaldo Nazário holds the record for the most goals scored in FIFA World Cup tournaments."
+    },
+    {
+      "title": "Basketball's Shot Clock",
+      "fact": "The introduction of the 24-second shot clock revolutionized basketball and increased scoring."
+    },
+    {
+      "title": "Tennis Grand Slam",
+      "fact": "Margaret Court won all four Grand Slam titles in a single calendar year in 1970, a remarkable achievement."
+    },
+    {
+      "title": "Hockey's Fastest Goal",
+      "fact": "Mike Legg scored an incredible lacrosse-style goal known as the 'Michigan' during a college hockey game."
+    },
+    {
+      "title": "Golf's Iconic Claret Jug",
+      "fact": "The winner of The Open Championship receives the Claret Jug, one of golf's most prestigious trophies."
+    },
+    {
+      "title": "Boxing's Weight Divisions",
+      "fact": "Boxing has 17 recognized weight divisions, each with its own champion and title."
+    },
+    {
+      "title": "Olympic Torch Relay",
+      "fact": "The Olympic torch is carried by thousands of torchbearers and travels across the host country before the games."
+    },
+    {
+      "title": "Soccer's World-Class Clubs",
+      "fact": "Football clubs like Barcelona, Real Madrid, and Manchester United have millions of devoted fans worldwide."
+    },
+    {
+      "title": "Basketball's Slam Dunks",
+      "fact": "The first recorded slam dunk in basketball history was performed by Joe Fortenberry in 1936."
+    },
+    {
+      "title": "Tennis Grand Slam",
+      "fact": "Steffi Graf is the only tennis player to achieve a Golden Slam, winning all four Grand Slam titles and the Olympics in a single year."
+    },
+    {
+      "title": "Cricket's T20 Revolution",
+      "fact": "The introduction of Twenty20 cricket has led to shorter, more exciting matches and the rise of T20 leagues around the world."
+    },
+    {
+      "title": "Super Bowl Performers",
+      "fact": "Super Bowl halftime shows have featured legendary performers like Michael Jackson, Beyoncé, and Prince."
+    },
+    {
+      "title": "Soccer's Iconic Stadiums",
+      "fact": "Stadiums like Camp Nou, Old Trafford, and Santiago Bernabéu are iconic venues for football matches."
+    },
+    {
+      "title": "Basketball's Three-Point Line",
+      "fact": "The introduction of the three-point line in basketball added a new dimension to the game's strategy."
+    },
+    {
+      "title": "Olympic Sponsors",
+      "fact": "The Olympic Games have major sponsors, contributing to the financing of the event and supporting athletes."
+    },
+    {
+      "title": "Baseball Records",
+      "fact": "Baseball legends like Babe Ruth and Hank Aaron set records that stood for decades."
+    },
+    {
+      "title": "NBA Scoring Greats",
+      "fact": "NBA players like Wilt Chamberlain and Kobe Bryant had historic scoring performances."
+    },
+    {
+      "title": "Horse Racing Triple Crown",
+      "fact": "The Triple Crown in horse racing consists of the Kentucky Derby, Preakness Stakes, and Belmont Stakes."
+    },
+    {
+      "title": "Swimming's Olympic Dominance",
+      "fact": "Swimmer Michael Phelps won eight gold medals in a single Olympics in 2008, a record-breaking achievement."
+    },
+    {
+      "title": "Soccer's Memorable Goals",
+      "fact": "Diego Maradona's 'Hand of God' and 'Goal of the Century' in the 1986 World Cup are iconic moments in football history."
+    },
+    {
+      "title": "Olympic Village",
+      "fact": "The Olympic Village provides housing and facilities for athletes during the games, fostering international camaraderie."
+    },
+    {
+      "title": "Golf's Legendary Courses",
+      "fact": "Golf courses like Augusta National and Pebble Beach are renowned for their beauty and challenging layouts."
+    },
+    {
+      "title": "Boxing's Thrilling Knockouts",
+      "fact": "Boxers like Mike Tyson and George Foreman are known for their devastating knockout power."
+    },
+    {
+      "title": "Olympic Ceremonial Cauldron",
+      "fact": "The Olympic cauldron is lit using the Olympic torch, symbolizing the start of the games."
+    },
+    {
+      "title": "Cycling's Tour de France Records",
+      "fact": "Lance Armstrong won seven consecutive Tour de France titles before his achievements were nullified."
+    },
+    {
+      "title": "Tennis Grand Slam",
+      "fact": "Rod Laver is the only tennis player to achieve two calendar-year Grand Slams, one as an amateur and one as a professional."
+    },
+    {
+      "title": "Winter Olympics Hosts",
+      "fact": "The Winter Olympics have been hosted in cities worldwide, from Lake Placid to Sochi."
+    },
+    {
+      "title": "Basketball's Record Streaks",
+      "fact": "Wilt Chamberlain's 100-point game and the Los Angeles Lakers' 33-game winning streak are basketball milestones."
+    },
+    {
+      "title": "Olympic Doping Regulations",
+      "fact": "The Olympics have strict anti-doping regulations to ensure fair competition and athlete health."
+    }
+  ]
+}

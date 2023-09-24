@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "457415440014",
+    "project_id": "stone-bison-384614",
+    "storage_bucket": "stone-bison-384614.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457415440014:android:8212eeb8b8fa54f80c3bdf",
+        "android_client_info": {
+          "package_name": "com.example.test_exersice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKDN8ZAeUyRJwhn5j55TnKRhAzmEvcv3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
